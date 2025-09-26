@@ -7,18 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-👋 I’m **Andrea Della Vecchia**, a Postdoctoral Researcher in **Machine Learning & Quantitative Finance** at EPFL (Swiss Finance Institute).
+🧑🏻‍💻 I’m a Postdoctoral Researcher in **Machine Learning & Quantitative Finance** at EPFL (Swiss Finance Institute).
 
-- 🎯 I build **scalable, mathematically rigorous algorithms** for **option pricing** and **stochastic control** (dynamic programming / RL in RKHS).  
-- 📈 I also work on **robust learning with non-i.i.d. data** and **time-series forecasting**.  
-- 🧪 Previously: **statistical learning theory, online learning, optimization** — incl. **covariate shift** (NeurIPS spotlight) and **Nyström generalization** (JMLR).  
+🔬 My research recently focused on applying **ML methods to finance**: from dynamic programming for stochastic optimal control and American option pricing, to non i.i.d. data and time-series forecasting.
 
----
+🌱 Previously, I focused on **building scalable kernel-based methods** for regression and classification with provable guarantees. To tackle large-scale learning problems, I applied **random projection** techniques such as the **Nyström method, random features, and sketching**. This work led to the **implementation of compressed algorithms** that are both mathematically sound and practically efficient on high-dimensional, large datasets
 
-## 🔬 Research Interests
-- 🧠 Kernel methods (KRR, Nyström, random features), **RL in RKHS**  
-- 💹 **Option pricing**, **stochastic optimal control**, empirical processes  
-- 🧭 Reproducible evaluation (walk-forward / purged CV, costs & slippage)  
+🧪 Other research topics: statistical learning theory, adaptive multitask online learning, optimization, deep learning.  
 
 ---
 
@@ -32,6 +27,3 @@ redirect_from:
 - **Quant Backtesting Framework** — walk-forward / purged CV, transaction costs & slippage  
   <https://github.com/andreadvecchia/quant-backtesting-framework>  
 
----
-
-✉️ Contact links are in the **sidebar** → GitHub, Google Scholar, Email, LinkedIn.
