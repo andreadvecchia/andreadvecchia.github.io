@@ -5,7 +5,7 @@ venue: "Journal of Machine Learning Research (JMLR)"
 date: 2024-11-30
 year: 2024
 paperurl: "https://scholar.google.it/citations?view_op=view_citation&hl=en&user=aaeUheEAAAAJ&citation_for_view=aaeUheEAAAAJ:UeHWp8X0CEIC"   # replace with actual JMLR page
-pdf: "/files/papers/nystrom_convex_jmlr.pdf"
+pdf: "/files/papers/DellaVecchiaNystrom.pdf"
 selected: true
 excerpt: >-
   **Abstract:** We investigate an extension of classical empirical risk minimization, where the
