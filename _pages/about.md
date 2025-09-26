@@ -19,7 +19,7 @@ redirect_from:
 
 ---
 
-## 🧩 Research Interests:
+## 🎯 Research Interests:
 
 - ⚡ Scalable and Efficient Algorithms for Sustainable ML & Optimization
 
@@ -27,7 +27,9 @@ redirect_from:
 
 - ⏳ Time Series & Non-i.i.d. Data
 
-- 🔬 Statistical Learning Theory
+- 📊 Kernel Methods & High-Dimensional Learning 
+
+- 🤖 Machine Learning for Decision-Making
 
 ---
 
