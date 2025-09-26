@@ -34,7 +34,7 @@ redirect_from:
 
 - **25 Sep 2025** — Submitted our paper [*“Error Propagation in Dynamic Programming: From Stochastic Control to Option Pricing”*](https://arxiv.org/abs/2509.20239) to **ICLR 2026** 🤞 Excited to share this work on ML methods for option pricing!  
 
-- **18 Sep 2025** — Our paper [*“Computational Efficiency under Covariate Shift in Kernel Ridge Regression”*](https://scholar.google.it/citations?view_op=view_citation&hl=en&user=aaeUheEAAAAJ&citation_for_view=aaeUheEAAAAJ:IjCSPb-OGe4C) was **accepted at NeurIPS 2025** 🎉 — and selected for the **Spotlight** track! Looking forward to presenting in San Diego ✈️
+- **18 Sep 2025** — Our paper [*“Computational Efficiency under Covariate Shift in Kernel Ridge Regression”*](https://scholar.google.it/citations?view_op=view_citation&hl=en&user=aaeUheEAAAAJ&citation_for_view=aaeUheEAAAAJ:IjCSPb-OGe4C) was **accepted at NeurIPS 2025** 🎉 — and selected for the **Spotlight** session! Looking forward to presenting in San Diego ✈️
 
 - **30 Nov 2024** — Thrilled to announce that our article [*“The Nyström Method for Convex Loss Functions”*](https://scholar.google.it/citations?view_op=view_citation&hl=en&user=aaeUheEAAAAJ&citation_for_view=aaeUheEAAAAJ:UeHWp8X0CEIC) has been **published in the Journal of Machine Learning Research (JMLR)** 🎉 — a key venue for theoretical ML!
 
