@@ -10,14 +10,14 @@ selected: true
 
 # Short abstract shown on the publications page (safe folded YAML block)
 excerpt: >-
-  **Abstract:** This paper addresses the covariate shift problem in the context of nonparametric
-  regression within reproducing kernel Hilbert spaces (RKHSs). Covariate shift arises in supervised
-  learning when the input distributions of the training and test data differ, presenting additional
-  challenges for learning. Although kernel methods have optimal statistical properties, their high
-  computational demands in terms of time and, particularly, memory, limit their scalability to large
-  datasets. To address this limitation, the main focus of this paper is to explore the trade-off
-  between computational efficiency and statistical accuracy under covariate shift. We investigate
-  the use of random projections where the hypothesis space consists of a random subspace within a
-  given RKHS. Our results show that, even in the presence of covariate shift, significant
-  computational savings can be achieved without compromising learning performance.
+  **Abstract:** We present a physics-inspired method for inferring dynamic rankings in directed temporal networks—
+networks in which each directed and timestamped edge reflects the outcome and timing of a pairwise interaction.
+The inferred ranking of each node is real-valued and varies in time as each new edge, encoding an outcome like
+a win or loss, raises or lowers the node’s estimated strength or prestige, as is often observed in real scenarios
+including sequences of games, tournaments, or interactions in animal hierarchies. Our method works by solving a
+linear system of equations and requires only one parameter to be tuned. As a result, the corresponding algorithm
+is scalable and efficient. We test our method by evaluating its ability to predict interactions (edges’ existence)
+and their outcomes (edges’ directions) in a variety of applications, including both synthetic and real data. Our
+analysis shows that in many cases our method’s performance is better than existing methods for predicting
+dynamic rankings and interaction outcomes.
 ---
