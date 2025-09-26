@@ -18,9 +18,17 @@
     {% if post.year %}{% if post.venue %} · {% endif %}{{ post.year }}{% endif %}
   </div>
 
-  <p class="archive__item-excerpt" style="margin:0.25rem 0 0.75rem">
-    {% if post.pdf %}
+  {% if post.pdf %}
+    <p class="archive__item-excerpt" style="margin:0.25rem 0 0.75rem">
       <a class="btn btn--small" href="{{ post.pdf | relative_url }}" download>Download PDF</a>
-    {% endif %}
-  </p>
+    </p>
+  {% endif %}
+
+  {% if post.excerpt %}
+    <details style="margin:0.35rem 0 0.75rem">
+      <summary><strong>Abstract</strong></summary>
+      <div style="margin-top:0.35rem">{{ post.excerpt | markdownify }}</div>
+    </details>
+  {% endif %}
 </article>
+
