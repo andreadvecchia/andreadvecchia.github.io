@@ -4,7 +4,7 @@ authors: "A. Della Vecchia, E. De Vito, J. Mourtada, L. Rosasco"
 venue: "Journal of Machine Learning Research (JMLR)"
 date: 2024-11-30
 year: 2024
-paperurl: "https://jmlr.org/papers/vXX/XXXX.html"   # replace with actual JMLR page
+paperurl: "https://scholar.google.it/citations?view_op=view_citation&hl=en&user=aaeUheEAAAAJ&citation_for_view=aaeUheEAAAAJ:UeHWp8X0CEIC"   # replace with actual JMLR page
 pdf: "/files/papers/nystrom_convex_jmlr.pdf"
 selected: true
 excerpt: >-
