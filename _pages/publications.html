@@ -9,7 +9,7 @@ author_profile: true
 
 {% if site.author.googlescholar %}
 <div class="wordwrap" style="margin-bottom:1rem">
-  See the complete list on
+  Full list available on
   <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Google Scholar</a>.
 </div>
 {% endif %}
@@ -18,11 +18,10 @@ author_profile: true
 <hr />
 
 {%- assign selected_pubs = site.publications | where_exp: "p", "p.selected == true" -%}
-
 {%- if selected_pubs and selected_pubs.size > 0 -%}
   {%- for post in selected_pubs reversed -%}
-    {% include archive-single.html %}
+    {% include archive-single-publication.html %}
   {%- endfor -%}
 {%- else -%}
-  <p>No selected publications yet. Add <code>selected: true</code> to chosen items in <code>_publications/</code>.</p>
+  <p>No selected publications yet. Add <code>selected: true</code> in <code>_publications/…</code>.</p>
 {%- endif -%}
