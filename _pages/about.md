@@ -9,9 +9,9 @@ redirect_from:
 
 🧑🏻‍💻 I’m a Postdoctoral Researcher in **Machine Learning & Quantitative Finance** at EPFL (Swiss Finance Institute).
 
-🔬 My research recently focused on applying **ML methods to finance**: from dynamic programming for stochastic optimal control and American option pricing, to non i.i.d. data and time-series forecasting.
+🔬 My research recently focused on applying **ML methods to finance**: from dynamic programming for stochastic optimal control and **American option pricing**, to non i.i.d. data and **time-series forecasting**.
 
-🌱 Previously, I focused on **building scalable kernel-based methods** for regression and classification with provable guarantees. To tackle large-scale learning problems, I applied **random projection** techniques such as the **Nyström method, random features, and sketching**. 
+🌱 Previously, I focused on **building efficient kernel-based methods** with mathematical error guarantees. To tackle large-scale learning problems, I am an expert in **random projection** techniques such as the **Nyström method, random features, and sketching**. 
 
 🛠 These works led to the **implementation of compressed algorithms** that are both mathematically sound and practically efficient on high-dimensional, large datasets.
 
