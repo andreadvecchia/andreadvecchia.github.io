@@ -9,7 +9,7 @@ pdf: "/files/papers/DellaVecchia_error.pdf"
 selected: true
 
 excerpt: >-
-  **Abstract:** This paper investigates theoretical and methodological foundations for stochastic
+  This paper investigates theoretical and methodological foundations for stochastic
   optimal control (SOC) in discrete time. We start formulating the control problem in a general
   dynamic programming framework, introducing the mathematical structure needed for a detailed
   convergence analysis. The associated value function is estimated through a sequence of
