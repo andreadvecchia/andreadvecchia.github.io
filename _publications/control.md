@@ -2,7 +2,7 @@
 title: "Error Propagation in Dynamic Programming: From Stochastic Control to Option Pricing"
 authors: "A. Della Vecchia, D. Filipović"
 venue: "arXiv, under review at ICLR 26"
-date: 2025
+date: 2025-09-18
 year: 2025
 paperurl: "https://arxiv.org/abs/2509.20239"   # replace with the actual JMLR URL (or Scholar)
 pdf: "/files/papers/control.pdf"
