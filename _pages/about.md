@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-🧑🏻‍💻 I’m a Postdoctoral Researcher in **Machine Learning & Quantitative Finance** at EPFL (Swiss Finance Institute).
+🧑🏻‍💻 I’m a Postdoctoral Researcher in **Machine Learning & Quantitative Finance** at EPFL.
 
 🔬 My research recently focused on applying **ML methods to finance**: from dynamic programming for stochastic optimal control and **American option pricing**, to non i.i.d. data and **time-series forecasting**.
 
