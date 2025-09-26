@@ -10,7 +10,7 @@ selected: true
 
 # Short abstract shown on the publications page (safe folded YAML block)
 excerpt: >-
-  **Abstract:** This paper addresses the covariate shift problem in the context of nonparametric
+  This paper addresses the covariate shift problem in the context of nonparametric
   regression within reproducing kernel Hilbert spaces (RKHSs). Covariate shift arises in supervised
   learning when the input distributions of the training and test data differ, presenting additional
   challenges for learning. Although kernel methods have optimal statistical properties, their high
