@@ -1,0 +1,26 @@
+<article class="archive__item">
+  <h3 class="archive__item-title" style="margin-bottom:0.25rem">
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ post.title }}</a>
+    {% else %}
+      {{ post.title }}
+    {% endif %}
+  </h3>
+
+  {% if post.authors %}
+    <div class="archive__item-excerpt" style="margin:0.15rem 0">
+      {{ post.authors }}
+    </div>
+  {% endif %}
+
+  <div class="archive__item-excerpt" style="margin:0.15rem 0 0.5rem">
+    {% if post.venue %}<em>{{ post.venue }}</em>{% endif %}
+    {% if post.year %}{% if post.venue %} · {% endif %}{{ post.year }}{% endif %}
+  </div>
+
+  <p class="archive__item-excerpt" style="margin:0.25rem 0 0.75rem">
+    {% if post.pdf %}
+      <a class="btn btn--small" href="{{ post.pdf | relative_url }}" download>Download PDF</a>
+    {% endif %}
+  </p>
+</article>
