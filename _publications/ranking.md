@@ -9,7 +9,7 @@ pdf: "/files/papers/DellaVecchia_Rank.pdf"
 selected: true
 
 excerpt: >-
-  **Abstract:** We present a physics-inspired method for inferring dynamic rankings in directed
+  We present a physics-inspired method for inferring dynamic rankings in directed
   temporal networks — networks in which each directed and timestamped edge reflects the outcome
   and timing of a pairwise interaction. The inferred ranking of each node is real-valued and varies
   in time as each new edge, encoding an outcome like a win or loss, raises or lowers the node's
