@@ -17,7 +17,6 @@ redirect_from:
 
 🧪 Other research topics: statistical learning theory, adaptive multitask online learning, optimization, deep learning.  
 
----
 
 ## 🎯 Research Interests:
 
@@ -31,7 +30,6 @@ redirect_from:
 
 - 🤖 Machine Learning for Decision-Making
 
----
 
 ## 🧩 Selected Projects
 - **Kernel ADP for American Options** — KRR/FALKON + Monte Carlo; reproducible scripts & CI  
