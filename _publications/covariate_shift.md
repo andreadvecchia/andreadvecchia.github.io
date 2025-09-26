@@ -1,11 +1,11 @@
 ---
-title: "The Nyström Method for Convex Loss Functions"
-authors: "A. Della Vecchia, E. De Vito, J. Mourtada, L. Rosasco"
-venue: "Journal of Machine Learning Research (JMLR)"
-date: 2024-11-30
-year: 2024
-paperurl: "https://jmlr.org/papers/vXX/XXXX.html"   # replace with the actual JMLR URL (or Scholar)
-pdf: "/files/papers/nystrom_convex_jmlr_2024.pdf"
+title: "Computational Efficiency under Covariate Shift in Kernel Ridge Regression"
+authors: "A. Della Vecchia, A. Mavakala, E. De Vito, L. Rosasco"
+venue: "NeurIPS (Spotlight)"
+date: 2025
+year: 2025
+paperurl: "https://jmlr.org/papers/vXX/XXXX.html](https://scholar.google.it/citations?view_op=view_citation&hl=en&user=aaeUheEAAAAJ&citation_for_view=aaeUheEAAAAJ:IjCSPb-OGe4C)"   # replace with the actual JMLR URL (or Scholar)
+pdf: "/files/papers/Covariate_shift.pdf"
 selected: true
 
 # Short abstract shown on the publications page (safe folded YAML block)
