@@ -5,7 +5,7 @@ venue: "NeurIPS (Spotlight)"
 date: 2025-05-20
 year: 2025
 paperurl: "https://scholar.google.it/citations?view_op=view_citation&hl=en&user=aaeUheEAAAAJ&citation_for_view=aaeUheEAAAAJ:IjCSPb-OGe4C"   # replace with the actual JMLR URL (or Scholar)
-pdf: "/files/papers/Covariate_shift.pdf"
+pdf: "/files/papers/DellaVecchia_CovShift.pdf"
 selected: true
 
 # Short abstract shown on the publications page (safe folded YAML block)
