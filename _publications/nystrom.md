@@ -8,7 +8,7 @@ paperurl: "https://scholar.google.it/citations?view_op=view_citation&hl=en&user=
 pdf: "/files/papers/DellaVecchiaNystrom.pdf"
 selected: true
 excerpt: >-
-  **Abstract:** We investigate an extension of classical empirical risk minimization, where the
+  We investigate an extension of classical empirical risk minimization, where the
   hypothesis space consists of a random subspace within a given Hilbert space. Specifically, we
   examine the Nyström method where the subspaces are defined by a random subset of the data. This
   approach recovers Nyström approximations used in kernel methods as a specific case. Using random
