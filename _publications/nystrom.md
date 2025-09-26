@@ -2,7 +2,7 @@
 title: "The Nyström Method for Convex Loss Functions"
 authors: "A. Della Vecchia, E. De Vito, J. Mourtada, L. Rosasco"
 venue: "Journal of Machine Learning Research (JMLR)"
-date: 2024-11-30
+date: 2024/11/30
 year: 2024
 paperurl: "https://jmlr.org/papers/vXX/XXXX.html](https://scholar.google.it/citations?view_op=view_citation&hl=en&user=aaeUheEAAAAJ&citation_for_view=aaeUheEAAAAJ:UeHWp8X0CEIC)"   # 👈 put the URL here
 pdf: "/files/papers/nystrom_convex_jmlr.pdf"
