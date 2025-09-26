@@ -5,7 +5,7 @@ venue: "arXiv, under review at ICLR26"
 date: 2025-09-18
 year: 2025
 paperurl: "https://arxiv.org/abs/2509.20239"
-pdf: "/files/papers/control.pdf"
+pdf: "/files/papers/DellaVecchia_error.pdf"
 selected: true
 
 excerpt: >-
