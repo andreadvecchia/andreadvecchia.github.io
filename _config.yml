@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale        : "en-US"
-site_theme    : "air"
+site_theme    : "default"
 title         : "Andrea's Homepage"
 title_separator: "-"
 name          : &name "Andrea Della Vecchia"
