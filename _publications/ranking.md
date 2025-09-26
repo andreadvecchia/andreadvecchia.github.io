@@ -5,7 +5,7 @@ venue: "Physical Review E"
 date: 2024-09-01
 year: 2024
 paperurl: "https://scholar.google.it/citations?view_op=view_citation&hl=en&user=aaeUheEAAAAJ&citation_for_view=aaeUheEAAAAJ:2osOgNQ5qMEC"
-pdf: "/files/papers/ranking.pdf"
+pdf: "/files/papers/DellaVecchia_Rank.pdf"
 selected: true
 
 excerpt: >-
