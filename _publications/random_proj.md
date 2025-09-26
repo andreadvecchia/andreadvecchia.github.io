@@ -8,7 +8,7 @@ paperurl: "https://scholar.google.it/citations?view_op=view_citation&hl=en&user=
 pdf: "/files/papers/DellaVecchia_random.pdf"
 selected: true
 excerpt: >-
-  **Abstract:** We study a natural extension of classical empirical risk minimization, where the
+  We study a natural extension of classical empirical risk minimization, where the
   hypothesis space is a random subspace of a given space. In particular, we consider possibly
   data-dependent subspaces spanned by a random subset of the data, recovering as a special case
   Nyström approaches for kernel methods. Considering random subspaces naturally leads to
