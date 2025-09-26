@@ -19,6 +19,18 @@ redirect_from:
 
 ---
 
+## 🧩 Research Interests:
+
+- ⚡ Scalable and Efficient Algorithms for Sustainable ML & Optimization
+
+- 💹 Quantitative Finance & Option Pricing
+
+- ⏳ Time Series & Non-i.i.d. Data
+
+- 🔬 Statistical Learning Theory
+
+---
+
 ## 🧩 Selected Projects
 - **Kernel ADP for American Options** — KRR/FALKON + Monte Carlo; reproducible scripts & CI  
   <https://github.com/andreadvecchia/kernel-adp-american-options>  
