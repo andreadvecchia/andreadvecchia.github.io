@@ -5,7 +5,7 @@ venue: "International Conference on Artificial Intelligence and Statistics (AIST
 date: 2021-03-18
 year: 2021
 paperurl: "https://scholar.google.it/citations?view_op=view_citation&hl=en&user=aaeUheEAAAAJ&citation_for_view=aaeUheEAAAAJ:u5HHmVD_uO8C"
-pdf: "/files/papers/random_proj.pdf"
+pdf: "/files/papers/DellaVecchia_random.pdf"
 selected: true
 excerpt: >-
   **Abstract:** We study a natural extension of classical empirical risk minimization, where the
