@@ -1,7 +1,7 @@
 # Basic Site Settings
 locale        : "en-US"
 site_theme    : "default"
-title         : "Andrea Della Vecchia"
+title         : "Andrea's Homepage"
 title_separator: "-"
 name          : &name "Andrea Della Vecchia"
 description   : &description "ML & Quant Research — Option Pricing • Stochastic Control • Kernel Methods"
