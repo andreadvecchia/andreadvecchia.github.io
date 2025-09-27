@@ -20,7 +20,7 @@ redirect_from:
 
 ## 🎯 Research Interests:
 
-- ⚡ Scalable and Efficient Algorithms for Sustainable ML & Optimization
+- ⚡ Scalable, Efficient Algorithms & Optimization
 
 - 💹 Quantitative Finance & Option Pricing
 
