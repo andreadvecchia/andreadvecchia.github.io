@@ -28,8 +28,6 @@ redirect_from:
 
 - 📊 Kernel Methods & High-Dimensional Learning 
 
-- 🤖 Machine Learning for Decision-Making
-
 
 ## 🧩 Selected Projects
 - **Kernel ADP for American Options** — KRR/FALKON + Monte Carlo; reproducible scripts & CI  
