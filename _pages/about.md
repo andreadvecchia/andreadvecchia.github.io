@@ -30,14 +30,8 @@ redirect_from:
 
 
 ## 🧩 Selected Projects
-- **Kernel ADP for American Options** — KRR/FALKON + Monte Carlo; reproducible scripts & CI  
-  <https://github.com/andreadvecchia/kernel-adp-american-options>  
-
-- **RL in RKHS for Stochastic Control** — policy evaluation/improvement with action-dependent transitions  
-  <https://github.com/andreadvecchia/rl-control-rkhs>  
-
-- **Quant Backtesting Framework** — walk-forward / purged CV, transaction costs & slippage  
-  <https://github.com/andreadvecchia/quant-backtesting-framework>
+- **Dynamic Programming for American Options Pricing** — stochastic control+ KRR/FALKON + Monte Carlo; reproducible scripts & CI  
+  <https://github.com/andreadvecchia/DP-for-opt-pricing>  
 
 
 ## 🗞️ Last News
