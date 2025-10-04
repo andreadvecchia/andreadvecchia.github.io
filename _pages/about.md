@@ -34,7 +34,7 @@ redirect_from:
   stochastic control + KRR/FALKON + Monte Carlo
   <https://github.com/andreadvecchia/DP-for-opt-pricing>  
 
-- **KRR under covariate shift with IW correction and Nyström approximation**  
+- **KRR under Covariate Shift with IW Correction and Nyström Approximation**  
   domain adaptation + KRR + random projections
   <https://github.com/andreadvecchia/covariate_shift_KRR-Nystrom>  
 
