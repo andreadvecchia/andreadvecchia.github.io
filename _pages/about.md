@@ -31,7 +31,7 @@ redirect_from:
 
 ## 🧩 Selected Projects
 - **Dynamic Programming for American Options Pricing**  
-  stochastic control + KRR/FALKON + Monte Carlo
+  stochastic control + KRR/FALKON + Monte Carlo  
   <https://github.com/andreadvecchia/DP-for-opt-pricing>  
 
 - **KRR under Covariate Shift with IW Correction and Nyström Approximation**  
