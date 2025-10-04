@@ -31,11 +31,11 @@ redirect_from:
 
 ## 🧩 Selected Projects
 - **Dynamic Programming for American Options Pricing**  
-  stochastic control + KRR/FALKON + Monte Carlo; reproducible scripts & CI  
+  stochastic control + KRR/FALKON + Monte Carlo
   <https://github.com/andreadvecchia/DP-for-opt-pricing>  
 
 - **KRR under covariate shift with IW correction and Nyström approximation**  
-  domain adaptation + KRR + random projections; reproducible scripts & CI  
+  domain adaptation + KRR + random projections
   <https://github.com/andreadvecchia/covariate_shift_KRR-Nystrom>  
 
 ## 🗞️ Last News
