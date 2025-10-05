@@ -35,7 +35,7 @@ redirect_from:
   <https://github.com/andreadvecchia/DP-for-opt-pricing>  
 
 - **KRR under Covariate Shift with IW Correction and Nyström Approximation**  
-  domain adaptation + KRR + random projections (NurIPS 2025 - SPotlight)
+  domain adaptation + KRR + random projections (NurIPS 2025 - Spotlight)
   <https://github.com/andreadvecchia/covariate_shift_KRR-Nystrom>  
 
 ## 🗞️ Last News
