@@ -36,7 +36,11 @@ redirect_from:
 
 - **KRR under Covariate Shift with IW Correction and Nyström Approximation**  
   domain adaptation + KRR + random projections (NurIPS 2025 - Spotlight)
-  <https://github.com/andreadvecchia/covariate_shift_KRR-Nystrom>  
+  <https://github.com/andreadvecchia/covariate_shift_KRR-Nystrom>
+
+- **"A Model Efficient Dynamical Ranking in Networks"**  
+  inference on networks + scalability + temporal networks (Physical Review E 2024)
+  <https://github.com/andreadvecchia/DynSpringRank>
 
 ## 🗞️ Last News
 
