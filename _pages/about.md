@@ -44,7 +44,7 @@ redirect_from:
 
 ## 🗞️ Last News
 
-- **Sep 2025** — Submitted our paper [*“Error Propagation in Dynamic Programming: From Stochastic Control to Option Pricing”*](https://arxiv.org/abs/2509.20239) to **ICLR 2026** 🤞 Excited to share this work on ML methods for option pricing!  
+- **April 2026** — Our paper [*“Error Propagation in Dynamic Programming: From Stochastic Control to Option Pricing”*](https://arxiv.org/abs/2509.20239) has been accepted to **ICML 2026** 🤞 Excited to share this work on ML methods for option pricing, see you in Seoul!!  
 
 - **Sep 2025** — Our paper [*“Computational Efficiency under Covariate Shift in Kernel Ridge Regression”*](https://scholar.google.it/citations?view_op=view_citation&hl=en&user=aaeUheEAAAAJ&citation_for_view=aaeUheEAAAAJ:IjCSPb-OGe4C) was **accepted at NeurIPS 2025** 🎉 — and selected for the **Spotlight** session! Looking forward to presenting in San Diego ✈️
 
