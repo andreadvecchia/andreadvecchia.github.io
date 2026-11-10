@@ -35,6 +35,9 @@ redirect_from:
 - **MomentNetwork: Joint Conditional Mean & Covariance Estimation** *(work in progress)*  
   deep learning + large unbalanced panels + low-rank-plus-diagonal covariance, applied to US equity returns (1962–2021)  
 
+- **International Portfolio Construction & Currency Hedging** *(current work)*  
+  multi-currency portfolios + hedging strategies  
+
 - **Dynamic Programming for American Options Pricing**  
   stochastic control + KRR/FALKON + Monte Carlo  
   <https://github.com/andreadvecchia/DP-for-opt-pricing>  
