@@ -50,6 +50,6 @@ redirect_from:
 
 - **Nov 2024** — Thrilled to announce that our article [*“The Nyström Method for Convex Loss Functions”*](https://scholar.google.it/citations?view_op=view_citation&hl=en&user=aaeUheEAAAAJ&citation_for_view=aaeUheEAAAAJ:UeHWp8X0CEIC) has been **published in the Journal of Machine Learning Research (JMLR)** 🎉 — a key venue for theoretical ML!
 
-- **Sep 2024** — Excited to start my Postdoctoral Research at **EPFL** in the **Swiss Finance Institute**, working with **Damir Filipović** 🎓. Thrilled to explore how cutting-edge **machine learning** can be applied to **quantitative finance** 💹🤖  
+- **Sep 2024** — Excited to start my Postdoctoral Research at **EPFL**, working with **Damir Filipović** 🎓. Thrilled to explore how cutting-edge **machine learning** can be applied to **quantitative finance** 💹🤖  
  
 
