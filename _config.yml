@@ -21,7 +21,7 @@ header_pages:
 author:
   avatar        : "fototessera.jpeg"   # put your headshot at /profile.png (or /images/profile.png)
   name          : "Andrea Della Vecchia"
-  bio           : "Postdoc @ EPFL"
+  bio           : "Postdoc @ EPFL · ML for Quant Finance"
   location      : "Lausanne, Switzerland"
   employer      : "EPFL"
   email         : "andrea.dvecchia@gmail.com"

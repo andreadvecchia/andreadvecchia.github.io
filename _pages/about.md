@@ -9,7 +9,7 @@ redirect_from:
 
 🧑🏻‍💻 I’m a Postdoctoral Researcher in **Machine Learning & Quantitative Finance** at EPFL.
 
-🔬 My research recently focused on applying **ML methods to finance**: from dynamic programming for stochastic optimal control and **American option pricing**, to non i.i.d. data and **time-series forecasting**.
+🔬 My research applies **machine learning to quantitative finance**: **stock return prediction** and **conditional covariance estimation** in large, unbalanced **panel data**, **portfolio construction**, and dynamic programming for stochastic optimal control and **American option pricing**.
 
 🌱 Previously, I focused on **building efficient kernel-based methods** with mathematical error guarantees. To tackle large-scale learning problems, I am an expert in **random projection** techniques such as the **Nyström method, random features, and sketching**. 
 
@@ -20,16 +20,21 @@ redirect_from:
 
 ## 🎯 Research Interests:
 
-- ⚡ Scalable, Efficient Algorithms & Optimization
+- 📈 Asset Pricing & Return Prediction: cross-sectional panels, conditional mean & covariance, low-rank factor structure
 
 - 💹 Quantitative Finance & Option Pricing
 
 - ⏳ Time Series & Non-i.i.d. Data
 
+- ⚡ Scalable, Efficient Algorithms & Optimization
+
 - 📊 Kernel Methods & High-Dimensional Learning 
 
 
 ## 🧩 Selected Projects
+- **MomentNetwork: Joint Conditional Mean & Covariance Estimation** *(work in progress)*  
+  deep learning + large unbalanced panels + low-rank-plus-diagonal covariance, applied to US equity returns (1962–2021)  
+
 - **Dynamic Programming for American Options Pricing**  
   stochastic control + KRR/FALKON + Monte Carlo  
   <https://github.com/andreadvecchia/DP-for-opt-pricing>  
@@ -46,7 +51,7 @@ redirect_from:
 
 - **Sep 2026** — My paper [*“Post-Processing Guarantees for Classification under Linear-Fractional Performance Metrics”*](/files/papers/DellaVecchia_LFPM.pdf) has been **accepted at NeurIPS 2026** 🎉 A unified finite-sample theory for plug-in classifiers under the F-score, Jaccard index and other non-decomposable metrics. See you in Sydney ✈️🦘
 
-- **April 2026** — Our paper [*“Error Propagation in Dynamic Programming: From Stochastic Control to Option Pricing”*](https://arxiv.org/abs/2509.20239) has been accepted to **ICML 2026** 🤞 Excited to share this work on ML methods for option pricing, see you in Seoul!!  
+- **April 2026** — Our paper [*“Error Propagation in Dynamic Programming: From Stochastic Control to Option Pricing”*](https://arxiv.org/abs/2509.20239), joint work with **Damir Filipović**, has been **accepted at ICML 2026** 🎉 We give a rigorous analysis of how estimation errors in kernel regression and Monte Carlo propagate backward through dynamic programming, with **American option pricing** as the key application. See you in Seoul 🇰🇷  
 
 - **Sep 2025** — Our paper [*“Computational Efficiency under Covariate Shift in Kernel Ridge Regression”*](https://scholar.google.it/citations?view_op=view_citation&hl=en&user=aaeUheEAAAAJ&citation_for_view=aaeUheEAAAAJ:IjCSPb-OGe4C) was **accepted at NeurIPS 2025** 🎉 — and selected for the **Spotlight** session! Looking forward to presenting in San Diego ✈️
 
