@@ -35,7 +35,7 @@ redirect_from:
 - **MomentNetwork: Joint Conditional Mean & Covariance Estimation** *(work in progress)*  
   deep learning + large unbalanced panels + low-rank-plus-diagonal covariance, applied to US equity returns (1962–2021)  
 
-- **International Portfolio Construction & Currency Hedging** *(current work)*  
+- **International Portfolio Construction & Currency Hedging** *(work in progress)*  
   multi-currency portfolios + hedging strategies  
 
 - **Dynamic Programming for American Options Pricing**  
